@@ -11,6 +11,12 @@
   <li>Mathjs</li>
 </ul>
 
+### Features
+
+- [✔️] Tema Escuro
+- [✔️] Tema Claro
+- [✔️] 100% Funcional
+
 
 <h2>Theme Black</h2>
 
