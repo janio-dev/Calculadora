@@ -1,6 +1,10 @@
 <h1>Calculadora feita em ReactJS</h1>
 
-<p>Bibliotecas utilizadas</p>
+<p>Uma calculadora feita em reactJS com todas funcionalidades funcionando perfeitamente.</p>
+
+<hr/>
+
+<h5>Bibliotecas utilizadas</h5>
 <ul>
   <li>TailwindCSS</li>
   <li>heroicons</li>
