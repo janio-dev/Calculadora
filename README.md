@@ -4,7 +4,7 @@
 
 <hr/>
 
-<h5>Bibliotecas utilizadas</h5>
+### Bibliotecas utilizadas
 <ul>
   <li>TailwindCSS</li>
   <li>heroicons</li>
