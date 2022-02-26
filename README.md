@@ -1,6 +1,4 @@
-# Calculadora
-
-<h1>Uma calculadora feita em ReactJS</h1>
+<h1>Calculadora feita em ReactJS</h1>
 
 <p>Bibliotecas utilizadas</p>
 <ul>
