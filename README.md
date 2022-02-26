@@ -15,7 +15,12 @@
 
 - [✔️] Tema Escuro
 - [✔️] Tema Claro
-- [✔️] 100% Funcional
+- [✔️] Soma
+- [✔️] Divisão
+- [✔️] Multiplicação
+- [✔️] Subtração
+- [✔️] Decimais
+- [✔️] Responsivo
 
 
 <h2>Theme Black</h2>
